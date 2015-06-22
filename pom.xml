@@ -48,7 +48,7 @@
 
 	<scm>
 		<connection>scm:svn:https://github.com/karumien/log-aop/trunk</connection>
-		<developerConnection>https://github.com/karumien/log-aop/trunk</developerConnection>
+		<developerConnection>scm:svn:https://github.com/karumien/log-aop/trunk</developerConnection>
 		<url>https://github.com/karumien/log-aop/trunk</url>
 	</scm>
 
